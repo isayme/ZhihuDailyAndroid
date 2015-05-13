@@ -1,11 +1,11 @@
-package isayme.org.zhihudaily.utils;
+package org.isayme.zhihudaily.utils;
 
 import android.content.Context;
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 import android.util.Log;
 
-import isayme.org.zhihudaily.ZhihudailyApplication;
+import org.isayme.zhihudaily.ZhihudailyApplication;
 
 /**
  * Created by isayme on 2015/5/11.

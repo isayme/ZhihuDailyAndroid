@@ -1,4 +1,4 @@
-package isayme.org.zhihudaily;
+package org.isayme.zhihudaily;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
